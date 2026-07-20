@@ -10,3 +10,4 @@
 **Result:** 5.52% MAPE (Mean Absolute Percentage Error) — forecast closely tracked actual sales trend and seasonal pattern.
 
 **Tools:** Python, pandas, statsmodels, matplotlib
+https://www.loom.com/share/e028aef169e2438399ea4366c3e6406e
